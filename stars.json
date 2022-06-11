@@ -1,103 +1,103 @@
 [
   {
     "full_name": "prowler-cloud/prowler",
-    "stargazers_count": 5840,
-    "open_issues_count": 5,
-    "forks_count": 911
+    "stargazers_count": 5860,
+    "open_issues_count": 3,
+    "forks_count": 915
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 71504,
-    "open_issues_count": 262,
-    "forks_count": 3209
+    "stargazers_count": 71590,
+    "open_issues_count": 264,
+    "forks_count": 3211
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 68557,
+    "stargazers_count": 68660,
     "open_issues_count": 18,
-    "forks_count": 10267
+    "forks_count": 10276
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 96314,
+    "stargazers_count": 96510,
     "open_issues_count": 0,
-    "forks_count": 10181
+    "forks_count": 10195
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 106732,
-    "open_issues_count": 213,
-    "forks_count": 11397
+    "stargazers_count": 106809,
+    "open_issues_count": 214,
+    "forks_count": 11405
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 133888,
-    "open_issues_count": 274,
-    "forks_count": 75222
+    "stargazers_count": 134005,
+    "open_issues_count": 276,
+    "forks_count": 75284
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 671,
-    "open_issues_count": 16,
-    "forks_count": 280
+    "stargazers_count": 678,
+    "open_issues_count": 17,
+    "forks_count": 284
   },
   {
     "full_name": "open-sauced/hot",
-    "stargazers_count": 75,
-    "open_issues_count": 21,
-    "forks_count": 27
-  },
-  {
-    "full_name": "public-apis/public-apis",
-    "stargazers_count": 195548,
-    "open_issues_count": 8,
-    "forks_count": 22534
-  },
-  {
-    "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 143752,
-    "open_issues_count": 236,
-    "forks_count": 13738
-  },
-  {
-    "full_name": "projen/projen",
-    "stargazers_count": 1452,
-    "open_issues_count": 119,
-    "forks_count": 218
-  },
-  {
-    "full_name": "hayd/deno-lambda",
-    "stargazers_count": 643,
-    "open_issues_count": 10,
+    "stargazers_count": 81,
+    "open_issues_count": 20,
     "forks_count": 29
   },
   {
+    "full_name": "public-apis/public-apis",
+    "stargazers_count": 195916,
+    "open_issues_count": 1,
+    "forks_count": 22575
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "stargazers_count": 143926,
+    "open_issues_count": 236,
+    "forks_count": 13751
+  },
+  {
+    "full_name": "projen/projen",
+    "stargazers_count": 1460,
+    "open_issues_count": 119,
+    "forks_count": 219
+  },
+  {
+    "full_name": "hayd/deno-lambda",
+    "stargazers_count": 646,
+    "open_issues_count": 11,
+    "forks_count": 30
+  },
+  {
     "full_name": "denoland/deno",
-    "stargazers_count": 82798,
-    "open_issues_count": 968,
-    "forks_count": 4442
+    "stargazers_count": 82836,
+    "open_issues_count": 934,
+    "forks_count": 4446
   },
   {
     "full_name": "awslabs/aws-lambda-powertools-typescript",
-    "stargazers_count": 745,
-    "open_issues_count": 48,
+    "stargazers_count": 746,
+    "open_issues_count": 49,
     "forks_count": 41
   },
   {
     "full_name": "puncsky/system-design-and-architecture",
-    "stargazers_count": 1641,
+    "stargazers_count": 1648,
     "open_issues_count": 23,
     "forks_count": 410
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 57408,
-    "open_issues_count": 105,
-    "forks_count": 12157
+    "stargazers_count": 57426,
+    "open_issues_count": 104,
+    "forks_count": 12160
   },
   {
     "full_name": "serverless-nextjs/serverless-next.js",
-    "stargazers_count": 3572,
+    "stargazers_count": 3578,
     "open_issues_count": 199,
     "forks_count": 410
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "dabit3/awesome-aws-amplify",
-    "stargazers_count": 1700,
+    "stargazers_count": 1701,
     "open_issues_count": 2,
     "forks_count": 174
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 2743,
-    "open_issues_count": 9,
-    "forks_count": 697
+    "stargazers_count": 2766,
+    "open_issues_count": 11,
+    "forks_count": 701
   },
   {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 7400,
+    "stargazers_count": 7414,
     "open_issues_count": 60,
-    "forks_count": 701
+    "forks_count": 703
   },
   {
     "full_name": "based-ghost/vue-seo-friendly-spa-template",
@@ -140,43 +140,43 @@
   {
     "full_name": "gridsome/gridsome",
     "stargazers_count": 8227,
-    "open_issues_count": 569,
-    "forks_count": 494
+    "open_issues_count": 570,
+    "forks_count": 493
   },
   {
     "full_name": "jeremydaly/dynamodb-toolbox",
-    "stargazers_count": 1220,
-    "open_issues_count": 109,
+    "stargazers_count": 1223,
+    "open_issues_count": 110,
     "forks_count": 120
   },
   {
     "full_name": "alexcasalboni/aws-lambda-power-tuning",
-    "stargazers_count": 3577,
+    "stargazers_count": 3593,
     "open_issues_count": 4,
-    "forks_count": 244
+    "forks_count": 246
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 183028,
+    "stargazers_count": 183352,
     "open_issues_count": 312,
-    "forks_count": 33271
+    "forks_count": 33355
   },
   {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 6203,
+    "stargazers_count": 6230,
     "open_issues_count": 22,
-    "forks_count": 1071
+    "forks_count": 1082
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 221349,
+    "stargazers_count": 221485,
     "open_issues_count": 49,
-    "forks_count": 59955
+    "forks_count": 59994
   },
   {
     "full_name": "cube-js/cube.js",
-    "stargazers_count": 13113,
-    "open_issues_count": 604,
-    "forks_count": 1307
+    "stargazers_count": 13127,
+    "open_issues_count": 608,
+    "forks_count": 1310
   }
 ]
