@@ -1,135 +1,135 @@
 [
   {
     "full_name": "prowler-cloud/prowler",
-    "stargazers_count": 5981,
-    "open_issues_count": 4,
-    "forks_count": 936
+    "stargazers_count": 5984,
+    "open_issues_count": 6,
+    "forks_count": 938
   },
   {
     "full_name": "nvbn/thefuck",
-    "stargazers_count": 72068,
-    "open_issues_count": 262,
-    "forks_count": 3233
+    "stargazers_count": 72260,
+    "open_issues_count": 261,
+    "forks_count": 3232
   },
   {
     "full_name": "practical-tutorials/project-based-learning",
-    "stargazers_count": 71600,
-    "open_issues_count": 22,
-    "forks_count": 10621
+    "stargazers_count": 71765,
+    "open_issues_count": 24,
+    "forks_count": 10641
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 99064,
+    "stargazers_count": 99219,
     "open_issues_count": 0,
-    "forks_count": 10396
+    "forks_count": 10409
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 107700,
-    "open_issues_count": 217,
-    "forks_count": 11473
+    "stargazers_count": 108031,
+    "open_issues_count": 192,
+    "forks_count": 11495
   },
   {
     "full_name": "github/gitignore",
-    "stargazers_count": 135409,
+    "stargazers_count": 135688,
     "open_issues_count": 291,
-    "forks_count": 76056
+    "forks_count": 76138
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 720,
+    "stargazers_count": 723,
     "open_issues_count": 16,
-    "forks_count": 315
+    "forks_count": 317
   },
   {
     "full_name": "open-sauced/hot",
     "stargazers_count": 91,
-    "open_issues_count": 28,
-    "forks_count": 32
+    "open_issues_count": 33,
+    "forks_count": 34
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 200921,
-    "open_issues_count": 34,
-    "forks_count": 23046
+    "stargazers_count": 201264,
+    "open_issues_count": 1,
+    "forks_count": 23086
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 149966,
-    "open_issues_count": 254,
-    "forks_count": 14236
+    "stargazers_count": 151376,
+    "open_issues_count": 255,
+    "forks_count": 14347
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 1513,
-    "open_issues_count": 125,
-    "forks_count": 229
+    "stargazers_count": 1517,
+    "open_issues_count": 127,
+    "forks_count": 231
   },
   {
     "full_name": "hayd/deno-lambda",
-    "stargazers_count": 674,
-    "open_issues_count": 12,
-    "forks_count": 31
+    "stargazers_count": 677,
+    "open_issues_count": 11,
+    "forks_count": 30
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 83974,
-    "open_issues_count": 930,
-    "forks_count": 4521
+    "stargazers_count": 84044,
+    "open_issues_count": 923,
+    "forks_count": 4531
   },
   {
     "full_name": "awslabs/aws-lambda-powertools-typescript",
-    "stargazers_count": 779,
-    "open_issues_count": 40,
-    "forks_count": 45
+    "stargazers_count": 788,
+    "open_issues_count": 38,
+    "forks_count": 46
   },
   {
     "full_name": "puncsky/system-design-and-architecture",
-    "stargazers_count": 1678,
+    "stargazers_count": 1681,
     "open_issues_count": 23,
     "forks_count": 417
   },
   {
     "full_name": "kdn251/interviews",
-    "stargazers_count": 57678,
+    "stargazers_count": 57693,
     "open_issues_count": 104,
-    "forks_count": 12203
+    "forks_count": 12202
   },
   {
     "full_name": "serverless-nextjs/serverless-next.js",
-    "stargazers_count": 3654,
+    "stargazers_count": 3665,
     "open_issues_count": 209,
-    "forks_count": 412
+    "forks_count": 413
   },
   {
     "full_name": "aws-samples/aws-amplify-react-native-events-app-workshop",
     "stargazers_count": 74,
     "open_issues_count": 1,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "dabit3/awesome-aws-amplify",
     "stargazers_count": 1704,
     "open_issues_count": 2,
-    "forks_count": 174
+    "forks_count": 173
   },
   {
     "full_name": "dabit3/next.js-amplify-workshop",
-    "stargazers_count": 334,
+    "stargazers_count": 335,
     "open_issues_count": 6,
-    "forks_count": 90
+    "forks_count": 89
   },
   {
     "full_name": "timlrx/tailwind-nextjs-starter-blog",
-    "stargazers_count": 2940,
-    "open_issues_count": 12,
-    "forks_count": 731
+    "stargazers_count": 2953,
+    "open_issues_count": 10,
+    "forks_count": 732
   },
   {
     "full_name": "unicodeveloper/awesome-nextjs",
-    "stargazers_count": 7525,
+    "stargazers_count": 7611,
     "open_issues_count": 60,
-    "forks_count": 711
+    "forks_count": 720
   },
   {
     "full_name": "based-ghost/vue-seo-friendly-spa-template",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "jeremydaly/dynamodb-toolbox",
-    "stargazers_count": 1263,
-    "open_issues_count": 94,
-    "forks_count": 122
+    "stargazers_count": 1269,
+    "open_issues_count": 92,
+    "forks_count": 123
   },
   {
     "full_name": "alexcasalboni/aws-lambda-power-tuning",
-    "stargazers_count": 3669,
-    "open_issues_count": 6,
-    "forks_count": 257
+    "stargazers_count": 3682,
+    "open_issues_count": 4,
+    "forks_count": 258
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 187963,
+    "stargazers_count": 188572,
     "open_issues_count": 319,
-    "forks_count": 34109
+    "forks_count": 34192
   },
   {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 6611,
+    "stargazers_count": 6642,
     "open_issues_count": 24,
-    "forks_count": 1143
+    "forks_count": 1149
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 224566,
+    "stargazers_count": 225188,
     "open_issues_count": 52,
-    "forks_count": 60662
+    "forks_count": 60741
   },
   {
     "full_name": "cube-js/cube.js",
-    "stargazers_count": 13354,
-    "open_issues_count": 547,
-    "forks_count": 1339
+    "stargazers_count": 13385,
+    "open_issues_count": 550,
+    "forks_count": 1346
   }
 ]
